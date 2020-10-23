@@ -1,0 +1,33 @@
+div .slideshow-container, .hidden, nav, img, #userbox, footer .menuFooter, .hidePrint{
+	display: none;
+	visibility:hidden;
+}
+div #mappa{
+	display: none;
+	visibility:hidden;
+}
+div .serviceCard{
+	display: table;
+	page-break-inside: avoid;
+}
+
+.textArticolo, .prezzo{
+	float: left;
+	padding-bottom: 0px;
+	margin: 0px;
+}
+.prezzo{
+	font-weight: bold;
+}
+.tipoArticolo{
+	font-style: italic;
+}
+.titoloArticolo{
+	font-size: 1.2em;
+}
+a:visited{
+	color: black;
+}
+.clearLeft{
+	clear: left;
+}

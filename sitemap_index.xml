@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/TechWeb1819/main-sitemap.xsl"?>
+		<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+			<sitemap>
+				<loc>http://localhost/TechWeb1819/post-sitemap.xml</loc>
+				<lastmod>2019-02-13T16:54:16+01:00</lastmod>
+			</sitemap>
+			<sitemap>
+				<loc>http://localhost/TechWeb1819/page-sitemap.xml</loc>
+				<lastmod>2019-02-13T16:54:16+01:00</lastmod>
+			</sitemap>
+			
+		</sitemapindex>
+		
